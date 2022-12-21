@@ -1,0 +1,31 @@
+.title {
+  color: navy;
+  font-size: 50px;
+}
+
+th {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  font-weight: 750;
+}
+.tg {
+  font-size: x-large;
+  justify-content: right;
+  align-items: center;
+  border: solid black 2px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 7px;
+  border-spacing: 12px;
+}
+button {
+  border-radius: 3px;
+  border-width: 1px;
+}
+.delete {
+  margin-right: 10px;
+}
+button:hover {
+  background-color: navy;
+  color: rgb(184, 184, 184);
+}

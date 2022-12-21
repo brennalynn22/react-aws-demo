@@ -1,0 +1,15 @@
+button {
+  border-radius: 3px;
+  border-width: 1px;
+  padding: 5px;
+}
+.delete {
+  margin-right: 10px;
+  margin-left: 10px;
+  align-content: center;
+}
+button:hover {
+  background-color: navy;
+  color: rgb(184, 184, 184);
+  fill: navy;
+}
